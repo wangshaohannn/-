@@ -1,0 +1,12 @@
+{
+  "name": "房源 Copilot",
+  "short_name": "房源助手",
+  "description": "个人二手房经纪自动化工作台",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#10273f",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
